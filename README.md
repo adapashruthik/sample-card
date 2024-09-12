@@ -1,1 +1,1 @@
-[# sample-card](https://adapashruthik.github.io/sample-card/)
+https://adapashruthik.github.io/sample-card/
